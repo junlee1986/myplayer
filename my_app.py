@@ -1,7 +1,7 @@
 import json
 import sys
 
-from PySide6.QtWidgets import QWidget, QLabel, QTextEdit, QVBoxLayout, QApplication, QMainWindow, QPushButton
+from PySide2.QtWidgets import QWidget, QLabel, QTextEdit, QVBoxLayout, QApplication, QMainWindow, QPushButton
 
 import version
 import 自动更新模块
